@@ -1,7 +1,9 @@
-# theatre_booking
-Theatre booking system in reactjs
+# Theatre Ticket Booking
+Theatre ticket booking System built in ReactJS
 
-ReactJS Version : 16.9
+ReactJS Version : v16.9
+Node.JS Version : v10.16.2
+NPM Version : 6.9.0
 
 @Author : Yadhunadh Chemmarassery
 @Email : yadhu680@gmail.com
