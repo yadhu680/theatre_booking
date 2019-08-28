@@ -9,10 +9,13 @@ NPM Version : 6.9.0
 
 @Email : yadhu680@gmail.com
 
-# clone / download the file
-# Install & setup node.js and npm package manager
-# Go inside project directory
-# Run command - npm start
+-- clone / download the file
+
+-- Install & setup node.js and npm package manager
+
+-- Go inside project directory
+
+-- Run command - npm start
 
 
 
